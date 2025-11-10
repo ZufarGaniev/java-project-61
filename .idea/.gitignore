@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+shelf/
+workspace.xml
+
+# Build output
+/app/build/
+app/.gradle/
+build/
+.gradle/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+
+# Ignore reports
+app/build/reports/
+app/build/dependencyUpdates/
